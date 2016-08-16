@@ -6,4 +6,5 @@ The purpose of this project is to explore few python libraries including numpy, 
 
 The current measurements includes:
   1. Line scan along spindle axis;
+  2. Nuclear size measurement;
   
